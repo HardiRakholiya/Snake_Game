@@ -15,7 +15,7 @@ public class gamepanel extends JPanel implements ActionListener{
 
     final  int x[] = new int[gameunits];
     final  int y[] = new int[gameunits];
-    int bodyparts_snake = 5;
+    int bodyparts_snake = 7;
     int balleseaten;
     int ballx;
     int bally;
